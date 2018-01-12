@@ -1,4 +1,4 @@
-# DummpingSystemSimulation
+# Dumping System Simulation
 A Matlab GUI simulation of a second order dumping system  
 The full discreption of the simulation is in the "Arabic Report.docx" file.  
 NOTE: The discreption is in arabic.  
